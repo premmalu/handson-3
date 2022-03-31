@@ -1,0 +1,72 @@
+.cards {
+  display: none;
+}
+
+.table {
+  display: none;
+}
+.display {
+  display: block;
+}
+.disp {
+  display: table;
+}
+.text-end button {
+  color: black;
+  background-color: orangered;
+}
+.card {
+  background-color: aquamarine;
+  display: inline-block;
+  padding: 10px;
+  position: relative;
+  border-radius: 10px !important;
+}
+.card img {
+  margin-top: 20px;
+  width: 200px;
+  height: 250px;
+  border-radius: 20px;
+}
+.card button {
+  border-radius: 10px;
+  position: absolute;
+  top: 8px;
+  right: 10px;
+  background-color: orangered;
+  border: none;
+}
+.card li {
+  list-style: none;
+}
+.editbuttons {
+  display: flex;
+  justify-content:end;
+  cursor: pointer;
+}
+
+.edit {
+  cursor: pointer;
+  display: inline;
+}
+.edit {
+  cursor: pointer;
+  display: inline;
+}
+.remove{
+  border-radius: 100% !important;
+  display: inline-block;
+  margin-left:20px;
+}
+.hidden {
+  display: none !important;
+}
+.hidegrid{
+  opacity: 0;
+}
+.remove:hover{
+  background-color: red !important;
+}
+#button{
+  cursor: pointer;
+}

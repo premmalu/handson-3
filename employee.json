@@ -1,0 +1,82 @@
+[
+  {
+    "img": "img/profile5.png",
+    "id": "101",
+    "name": "Employee1",
+    "Skills": "ReactJs",
+    "HCM": "Alexa",
+    "project": "Cognizant"
+  },
+  {
+    "img": "img/profile1.png",
+    "id": "102",
+    "name": "Employee2",
+    "Skills": "AngularJs",
+    "HCM": "Siri",
+    "project": "Cognizant"
+  },
+  {
+    "img": "img/profile1.png",
+    "id": "103",
+    "name": "Employee3",
+    "Skills": "NodeJs",
+    "HCM": "Apple",
+    "project": "Cognizant"
+  },
+  {
+    "img": "img/profile2.jpg",
+    "id": "104",
+    "name": "Employee4",
+    "Skills": "Vue",
+    "HCM": "Alexa",
+    "project": "Cognizant"
+  },
+  {
+    "img": "img/profile3.jpg",
+    "id": "105",
+    "name": "Employee5",
+    "Skills": "Javascript",
+    "HCM": "Windows",
+    "project": "Cognizant"
+  },
+  {
+    "img": "img/profile4.png",
+    "id": "106",
+    "name": "Employee6",
+    "Skills": "Typescript",
+    "HCM": "Windows",
+    "project": "Cognizant"
+  },
+  {
+    "img": "img/profile5.png",
+    "id": "107",
+    "name": "Employee7",
+    "Skills": "Angular,Vue",
+    "HCM": "Alexa",
+    "project": "Cognizant"
+  },
+  {
+    "img": "img/profile.png",
+    "id": "108",
+    "name": "Employee8",
+    "Skills": "Bootstrap",
+    "HCM": "Alexa",
+    "project": "Cognizant"
+  },
+  {
+    "img": "img/profile4.png",
+    "id": "109",
+    "name": "Employee9",
+    "Skills": "Node",
+    "HCM": "Windows",
+    "project": "Cognizant"
+  },
+  {
+    "img": "img/profile.png",
+    "id": "110",
+    "name": "Employee10",
+    "Skills": "Node",
+    "HCM": "Alexa",
+    "project": "Cognizant"
+  }
+]
